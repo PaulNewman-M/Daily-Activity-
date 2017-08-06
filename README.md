@@ -13,3 +13,8 @@ CHROME DEVTOOLS CANARY
 
 <a href="https://fccsf.slack.com/archives/C1W5X20T0/p1501826900504502">https://fccsf.slack.com/archives/C1W5X20T0/p1501826900504502</a>
 
+<h3> Aug 6th : Twitter Profiles for Web Performences </h3>
+
+<a href="https://twitter.com/addyosmani">addyosmani</a>
+<a href="https://twitter.com/paul_irish">paulIrish</a>
+
