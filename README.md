@@ -1,6 +1,6 @@
 #Daily-Learned-Concepts
 
-<h3>1) How to enable Expeimens in Dev tool for canvas inspection: layered panel view.</h3>
+<h3>1) How to enable Expeimens in Dev tool for canvas inspection: layered panel view</h3>
 
   ->How to turn on Chrome DevTools experiments
 CHROME DEVTOOLS CANARY
