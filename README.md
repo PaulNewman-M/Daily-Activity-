@@ -9,3 +9,7 @@ CHROME DEVTOOLS CANARY
 
 <a href="https://www.youtube.com/watch?v=KykP5Z5E4kA">Dev Tool Master Class By Prasanth</a>
 
+<h3>2) Algorithms </h3>
+
+<a href="https://fccsf.slack.com/archives/C1W5X20T0/p1501826900504502">https://fccsf.slack.com/archives/C1W5X20T0/p1501826900504502</a>
+
