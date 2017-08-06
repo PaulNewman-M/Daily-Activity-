@@ -2,7 +2,7 @@
 
 <h3>1) How to enable Expeimens in Dev tool for canvas inspection: layered panel view</h3>
 
-  ->How to turn on Chrome DevTools experiments
+How to turn on Chrome DevTools experiments
 CHROME DEVTOOLS CANARY
 
 <a href="chrome://flags">Enable Developper Tool Expiriments and Relanch to View at Settings</a>
@@ -20,8 +20,8 @@ CHROME DEVTOOLS CANARY
 
 <h3>4) Future, Faster: Unlock the Power of Web Components with Polymer (Google I/O '17) </h3>
 
-<a href="https://www.youtube.com/watch?v=cuoZenpQveQ&index=2&list=PLNYkxOF6rcICniLJ2rfj0FexlA-9zmJJE">https://www.youtube.com/watch?v=cuoZenpQveQ&index=2&list=PLNYkxOF6rcICniLJ2rfj0FexlA-9zmJJE</a>|
-<a href="https://www.polymer-project.org/">https://www.polymer-project.org/</a>|
-<a href="https://moderndevtools.com/#what-get">https://moderndevtools.com/#what-get</a>|
+<a href="https://www.youtube.com/watch?v=cuoZenpQveQ&index=2&list=PLNYkxOF6rcICniLJ2rfj0FexlA-9zmJJE">https://www.youtube.com/watch?v=cuoZenpQveQ&index=2&list=PLNYkxOF6rcICniLJ2rfj0FexlA-9zmJJE</a> |
+<a href="https://www.polymer-project.org/">https://www.polymer-project.org/</a> | 
+<a href="https://moderndevtools.com/#what-get">https://moderndevtools.com/#what-get</a> |
 <a href="https://www.webcomponents.org/">https://www.webcomponents.org/</a>
 
