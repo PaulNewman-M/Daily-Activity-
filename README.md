@@ -30,3 +30,7 @@ CHROME DEVTOOLS CANARY
 <a  href="https://treehouse.github.io/installation-guides/mac/node-mac.html">NPM Install</a> |
 <a href="https://treehouse.github.io/installation-guides/mac/homebrew">Homebrew lets you avoid possible security problems associated with using the sudo command to install software like Node </a>
 
+<h3>6) Image Optimization Environment </h3>
+
+<a href="https://classroom.udacity.com/courses/ud882/lessons/3520939843/concepts/37391188430923">Checkout the description part</a>
+
