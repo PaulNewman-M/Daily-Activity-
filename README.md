@@ -27,7 +27,7 @@ CHROME DEVTOOLS CANARY
 
 <h3>5) How to install NPM, Node.js,Homebrew using Terminal </h3>
 
-<a  href="https://treehouse.github.io/installation-guides/mac/node-mac.html">NPM Install</a>
-<a href="https://treehouse.github.io/installation-guides/mac/homebrew">Before Installing NPM,Node </a>
+<a  href="https://treehouse.github.io/installation-guides/mac/node-mac.html">NPM Install</a>.
+<a href="https://treehouse.github.io/installation-guides/mac/homebrew">Before Installing NPM,Node </a>.
  Homebrew lets you avoid possible security problems associated with using the sudo command to install software like Node
 
