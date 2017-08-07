@@ -36,5 +36,5 @@ CHROME DEVTOOLS CANARY
 
 <h3>7) How to Optimise code and reduce unwanted variables </h3>
 
-Use filter, reduce and functional programming rather than <strong>for loops</strong>
+Use filter, reduce (functional programming) rather than <strong>for loops</strong>
 
