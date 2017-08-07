@@ -34,3 +34,7 @@ CHROME DEVTOOLS CANARY
 
 <a href="https://classroom.udacity.com/courses/ud882/lessons/3520939843/concepts/37391188430923">Checkout the description part</a>
 
+<h3>7) How to Optimise code and reduce unwanted variables </h3>
+
+Use filter and reduce and functional programming reather than <strong>for loops</strong>
+
