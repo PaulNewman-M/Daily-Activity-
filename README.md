@@ -25,3 +25,9 @@ CHROME DEVTOOLS CANARY
 <a href="https://moderndevtools.com/#what-get">https://moderndevtools.com/#what-get</a> |
 <a href="https://www.webcomponents.org/">https://www.webcomponents.org/</a>
 
+<h3>5) How to install NPM, Node.js,Homebrew using Terminal </h3>
+
+<a  href="https://treehouse.github.io/installation-guides/mac/node-mac.html">NPM Install</a>
+<a href="https://treehouse.github.io/installation-guides/mac/homebrew">Before Installing NPM,Node </a>
+ Homebrew lets you avoid possible security problems associated with using the sudo command to install software like Node
+
