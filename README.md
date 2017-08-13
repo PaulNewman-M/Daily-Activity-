@@ -49,11 +49,11 @@ enter encrypt password
 esc :wq
 ~~~
 
-<h3>9) Got Job ! year after FCC</h3>
+<h4> Got Job ! year after FCC</h4>
 
 I also read all the books except the last one in p1xt’s guide(https://github.com/P1xt/p1xt-guides/blob/master/job-ready.md27) for getting job ready as soon as possible. The books I think everyone should read alongside FCC is YDKJS, since once you finish them you’ll have a very good understanding of JavaScript.
 
-<h4>10) Choosing Angular 2 over React in 2016 - BellevueJS - Matt Leonard</h4>
+<h4> Choosing Angular 2 over React in 2016 - BellevueJS - Matt Leonard</h4>
 
 < href="https://www.youtube.com/watch?v=ZxrE3mV8fjc">Choosing Angular 2 over React in 2016 - BellevueJS - Matt Leonard</a>
 
