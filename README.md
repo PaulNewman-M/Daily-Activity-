@@ -38,3 +38,13 @@ CHROME DEVTOOLS CANARY
 
 Use filter, reduce (functional programming) rather than <strong>for loops</strong>
 
+<h3>8) Encrypt Data using  Vim?</h3>
+
+open terminal
+vim password.txt
+esc :X
+enter encrypt password 
+esc :wq
+
+
+
