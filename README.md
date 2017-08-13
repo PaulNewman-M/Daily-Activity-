@@ -55,7 +55,7 @@ I also read all the books except the last one in p1xt’s guide(https://github.c
 
 <h4> Choosing Angular 2 over React in 2016 - BellevueJS - Matt Leonard</h4>
 
-< href="https://www.youtube.com/watch?v=ZxrE3mV8fjc">Choosing Angular 2 over React in 2016 - BellevueJS - Matt Leonard</a>
+<a href="https://www.youtube.com/watch?v=ZxrE3mV8fjc">Choosing Angular 2 over React in 2016 - BellevueJS - Matt Leonard</a>
 
 
 
