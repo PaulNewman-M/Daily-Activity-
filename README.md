@@ -79,3 +79,6 @@ I also read all the books except the last one in p1xt’s guide(https://github.c
 
 <a href="https://developers.google.com/speed/pagespeed/insights/">Page Speed Insight</a>
 
+<h3> Difference between merge and rebase</h3>
+
+<a href="https://www.youtube.com/watch?v=TymF3DpidJ8&spfreload=5">Rebase</a>
