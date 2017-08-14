@@ -74,25 +74,4 @@ I also read all the books except the last one in p1xt’s guide(https://github.c
 <h4> git </h4>
 
 <img src="https://i.stack.imgur.com/zUInQ.png"></img>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-#working dir
-<<<<<<< HEAD
-=======
-=======
 
->>>>>>> 9dbee3b50dd9b15fb207ba4c8e5f93956155fcf0
->>>>>>> add
-=======
-
-
-remote 
-
->>>>>>> ce831cbfe432cebf4deedd72861bb702fb800ab5
-=======
-
-
-remote 
-
->>>>>>> ce831cbfe432cebf4deedd72861bb702fb800ab5
