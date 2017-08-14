@@ -57,6 +57,9 @@ I also read all the books except the last one in p1xt’s guide(https://github.c
 
 <a href="https://www.youtube.com/watch?v=ZxrE3mV8fjc">Choosing Angular 2 over React in 2016 - BellevueJS - Matt Leonard</a>
 
+<h4> First Movements with Grunt</h4>
+
+<a href="https://css-tricks.com/video-screencasts/130-first-moments-grunt/">Grunt </a>
 
 
 
