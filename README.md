@@ -75,3 +75,6 @@ I also read all the books except the last one in p1xt’s guide(https://github.c
 
 <img src="https://i.stack.imgur.com/zUInQ.png"></img>
 
+<h4> Page Speed (Google Developer)</h4>
+
+<a href="">Page Speed Insight</a>https://developers.google.com/speed/pagespeed/insights/
