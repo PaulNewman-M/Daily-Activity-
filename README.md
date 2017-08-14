@@ -73,5 +73,5 @@ I also read all the books except the last one in p1xt’s guide(https://github.c
 
 <h4> git </h4>
 
-<a href="https://i.stack.imgur.com/zUInQ.png"></a>
+<img src="https://i.stack.imgur.com/zUInQ.png"></img>
 
