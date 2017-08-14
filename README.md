@@ -63,6 +63,10 @@ I also read all the books except the last one in p1xt’s guide(https://github.c
 
 <a href="https://classroom.udacity.com/courses/ud882/lessons/3520939843/concepts/37391188430923">Image Processing Environment (Grunt) </a>
 
+<h4> Install MacPorts</h4>
+
+<a href="https://www.youtube.com/watch?v=N22Ic6ZRPXI"> MacPorts</a>
+
 
 
 
