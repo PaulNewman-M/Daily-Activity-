@@ -71,5 +71,7 @@ I also read all the books except the last one in p1xt’s guide(https://github.c
 
 <a href="https://www.youtube.com/watch?v=rszmpxNG67M"> ImageMagick Installation Mac</a>
 
+<h4> git </h4>
 
+<a href="https://i.stack.imgur.com/zUInQ.png"></a>
 
