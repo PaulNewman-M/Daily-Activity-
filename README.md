@@ -67,6 +67,10 @@ I also read all the books except the last one in p1xt’s guide(https://github.c
 
 <a href="https://www.youtube.com/watch?v=N22Ic6ZRPXI"> MacPorts</a>
 
+<h4> Install ImageMagick </h4>
+
+<a href="https://www.youtube.com/watch?v=rszmpxNG67M"> Image Imagick Installation Mac</a>
+
 
 
 
