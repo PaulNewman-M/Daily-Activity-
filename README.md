@@ -61,7 +61,7 @@ I also read all the books except the last one in p1xt’s guide(https://github.c
 
 <a href="https://css-tricks.com/video-screencasts/130-first-moments-grunt/">Grunt </a>
 
-<a href="https://classroom.udacity.com/courses/ud882/lessons/3520939843/concepts/37391188430923">Image Processing Environment</a>
+<a href="https://classroom.udacity.com/courses/ud882/lessons/3520939843/concepts/37391188430923">Image Processing Environment (Grunt) </a>
 
 
 
