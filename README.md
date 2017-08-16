@@ -85,6 +85,6 @@ I also read all the books except the last one in p1xt’s guide(https://github.c
 
 <a href="https://www.youtube.com/watch?v=TymF3DpidJ8&spfreload=5">Merge vs Rebase</a>
 
-<h2>10) About div </h2>
+<h4>10) About div </h4>
 
 <p> Block level Generic Container <strong>i.e div in a p tag  take sseparate line</strong> </p> 
