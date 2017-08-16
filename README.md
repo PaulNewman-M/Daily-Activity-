@@ -9,6 +9,8 @@ CHROME DEVTOOLS CANARY
 
 <a href="https://www.youtube.com/watch?v=KykP5Z5E4kA">Dev Tool Master Class By Prasanth</a>
 
+
+
 <h3>2) Algorithms </h3>
 
 <a href="https://fccsf.slack.com/archives/C1W5X20T0/p1501826900504502">https://fccsf.slack.com/archives/C1W5X20T0/p1501826900504502</a>
@@ -82,3 +84,7 @@ I also read all the books except the last one in p1xt’s guide(https://github.c
 <h3> Difference between merge and rebase</h3>
 
 <a href="https://www.youtube.com/watch?v=TymF3DpidJ8&spfreload=5">Merge vs Rebase</a>
+
+<h2>10) About div </h2>
+
+<p> Block level Generic Container <strong>i.e div in a p tag  take sseparate line</strong> </p> 
