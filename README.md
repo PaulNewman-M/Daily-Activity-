@@ -88,3 +88,7 @@ I also read all the books except the last one in p1xt’s guide(https://github.c
 <h4>10) About div </h4>
 
 <p> Block level Generic Container <strong>i.e div in a p tag  take sseparate line</strong> </p> 
+
+<h4>11) LocalHost HTTP setup with single command </h4>
+
+<a href="http://www.linuxjournal.com/content/tech-tip-really-simple-http-server-python">http://www.linuxjournal.com/content/tech-tip-really-simple-http-server-python</a>
