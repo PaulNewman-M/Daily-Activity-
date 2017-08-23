@@ -57,3 +57,6 @@ PaulNewman (branch #) mogrifyy $ mogrify -path resize -adaptive-resize 50% -qual
 <a href="http://www.linuxjournal.com/content/tech-tip-really-simple-http-server-python">http://www.linuxjournal.com/content/tech-tip-really-simple-http-server-python</a>
 <h4>12)Best way to Optimize CSS file</h4>
 <a href="http://cssnano.co/">cssnano.co</a>
+<h4>What if browsers which doesn't support webp format</h4>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture">picture tag</a>
+
