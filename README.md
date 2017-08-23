@@ -47,13 +47,13 @@ PaulNewman (branch #) mogrifyy $ mogrify -path resize -adaptive-resize 50% -qual
 ```
 <h4> git </h4>
 <img src="https://i.stack.imgur.com/zUInQ.png"></img>
-<h3>9) Page Speed (Google Developer)</h3>
+<h4>9) Page Speed (Google Developer)</h4>
 <a href="https://developers.google.com/speed/pagespeed/insights/">Page Speed Insight</a>
-<h3> Difference between merge and rebase</h3>
+<h4> Difference between merge and rebase</h4>
 <a href="https://www.youtube.com/watch?v=TymF3DpidJ8&spfreload=5">Merge vs Rebase</a>
 <h4>10) About div </h4>
 <p> Block level Generic Container <strong>i.e div in a p tag  take sseparate line</strong> </p> 
 <h4>11) LocalHost HTTP setup with single command </h4>
 <a href="http://www.linuxjournal.com/content/tech-tip-really-simple-http-server-python">http://www.linuxjournal.com/content/tech-tip-really-simple-http-server-python</a>
-<h4>Best way to Optimize CSS file</h4>
+<h4>12)Best way to Optimize CSS file</h4>
 <a href="http://cssnano.co/">cssnano.co</a>
