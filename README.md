@@ -61,4 +61,7 @@ PaulNewman (branch #) mogrifyy $ mogrify -path resize -adaptive-resize 50% -qual
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture">picture tag</a>
 <h4>HTML,JS,CSS Minifier,Beautify</h4>
 <a href="http://minifycode.com/html-minifier/">http://minifycode.com/html-minifier/</a>
+<h4>A grunt task that enables live reloading of updated watch files in the browser</h4>
+<a href="https://www.npmjs.com/package/grunt-reload">www.npmjs.com/package/grunt-reload</a>
+<a href="https://24ways.org/2013/grunt-is-not-weird-and-hard/">24ways.org/2013/grunt-is-not-weird-and-hard</a>
 
