@@ -59,4 +59,6 @@ PaulNewman (branch #) mogrifyy $ mogrify -path resize -adaptive-resize 50% -qual
 <a href="http://cssnano.co/">cssnano.co</a>
 <h4>What if browsers which doesn't support webp format</h4>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture">picture tag</a>
+<h4>HTML,JS,CSS Minifier,Beautify<h4>
+<a href="http://minifycode.com/html-minifier/">http://minifycode.com/html-minifier/</a>
 
