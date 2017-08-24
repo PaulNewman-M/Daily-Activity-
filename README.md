@@ -65,5 +65,12 @@ PaulNewman (branch #) mogrifyy $ mogrify -path resize -adaptive-resize 50% -qual
 <a href="https://www.npmjs.com/package/grunt-reload">www.npmjs.com/package/grunt-reload</a> |
 <a href="https://24ways.org/2013/grunt-is-not-weird-and-hard/">24ways.org/2013/grunt-is-not-weird-and-hard</a>
 <h4>Required steps to install Grunt and start Automation</h4>
-<ul><ol><li>npm install -g grunt-cli (g- global ,cli-command line inteface)</li><li>npm init (creates package.json)</li><li>npm install -s grunt (creates node_modules folder)</li><li>touch Gruntfile.js (creates empty file)</li></ol></ul>
+<ul>
+		<li>npm install -g grunt-cli (g- global ,cli-command line inteface)</li>
+
+		<li>npm init (creates package.json)</li>
+
+		<li>npm install -s grunt (creates node_modules folder)</li>
+		<li>touch Gruntfile.js (creates empty file)</li>
+</ul>
 
