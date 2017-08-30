@@ -126,3 +126,55 @@ Have you tried it in yours?
 Yes load-grunt-tasks is a very neat plugin and we used it in the past! The reason we switch to jit-grunt is that load-grunt-tasks will literally load the entirety of the plugins from the package.json list, where jit-grunt only loads the plugins you are actually using in Gruntfile.js. That's much neater don't you think?
 
 ~~~
+
+# Autoload plugins with jit-grunt
+
+<ul>
+  <li><a href="http://ericnish.io/blog/compile-less-files-with-grunt/">Complie Less files with Grunt</a></li>
+  <li><a href="https://jonsuh.com/blog/take-grunt-to-the-next-level/">Take Grunt to the Next Level</a></li>
+  <li><a href="http://ia.njamieson.co.uk/2015/03/27/speeding-up-grunt-initial-load-jit-grunt-and-load-grunt-config/">Speeding up grunt initial load, jit-grunt and load-grunt-config FTW!</a></li>
+  <li><a href="http://damianfral.github.io/slides-functional-programming-coffeescript/#/intro-to-functional-programming-with-coffeescript">Introduction to Functional programming with coffee script</a></li>
+</ul>
+
+
+```
+module.exports = function(grunt) {
+    require('time-grunt')(grunt, (stats, done) => {
+        // do whatever you want with the stats
+        //uploadReport(stats);
+        // be sure to let grunt know when to exit
+        done();
+    });
+    require('jit-grunt')(grunt);
+
+    grunt.initConfig({
+        cssnano: {
+            options: {
+                sourcemap: true
+            },
+            dist: {
+                files: [{
+                    src: 'src/*.css',
+                    dest: 'dist/cssnano.css',
+                }]
+            },
+        },
+
+        cwebp: {
+            dynamic: {
+                options: {
+                    q: 50
+                },
+                files: [{
+                    expand: true,
+                    cwd: 'images/',
+                    src: ['**/*.{png,jpg,gif}'],
+                    dest: 'dist/'
+                }]
+            },
+        },
+    });
+
+    grunt.registerTask('default', ['cssnano', 'cwebp']);
+};
+```
