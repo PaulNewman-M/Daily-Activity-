@@ -116,3 +116,12 @@ Add .navbar-fixed-bottom and include a .container or .container-fluid to center 
 <a href="https://developers.google.com/speed/docs/insights/MinifyResources">https://developers.google.com/speed/docs/insights/MinifyResources</a>
 <h4> Postcss, linters, Future CSS , Better CSS, Images( checkout discription)</h4>
 <a href="https://github.com/postcss/postcss#readme">Postcss.org</a>
+
+<h4> Jit-Grunt: Load time of Grunt does not slow down even if there are many plugins</h4>
+<a href="https://www.npmjs.com/package/jit-grunt">jit-grunt</h4>
+```javascript
+I just checked it on couple of my projects- unexpectedly it is faster than "jit-grunt".
+Have you tried it in yours?
+
+Yes load-grunt-tasks is a very neat plugin and we used it in the past! The reason we switch to jit-grunt is that load-grunt-tasks will literally load the entirety of the plugins from the package.json list, where jit-grunt only loads the plugins you are actually using in Gruntfile.js. That's much neater don't you think?
+```
