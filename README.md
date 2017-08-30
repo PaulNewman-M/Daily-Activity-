@@ -116,6 +116,6 @@ Add .navbar-fixed-bottom and include a .container or .container-fluid to center 
 <h4> Effective way to optimise JS</h4>
 <a href="https://developers.google.com/closure/compiler/">https://developers.google.com/closure/compiler/</a>
 <h4> Anothe way to optimise css is csso </h4>
-<a href="https://developers.google.com/speed/docs/insights/MinifyResources</a>
+<a href="https://developers.google.com/speed/docs/insights/MinifyResources">https://developers.google.com/speed/docs/insights/MinifyResources</a>
 
 <h4> 
