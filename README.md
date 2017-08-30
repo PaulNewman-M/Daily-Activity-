@@ -77,3 +77,13 @@ PaulNewman (branch #) mogrifyy $ mogrify -path resize -adaptive-resize 50% -qual
 <h4>Responsive unit for font, width,height (viewport width/height)</h4>
 
 <a href="https://www.w3schools.com/cssref/tryit.asp?filename=trycss_unit_vmin">font size changes with respect to resize window</a>
+```javascript
+em vs ex vs px
+10px;
+1em;
+1ex;
+
+ex= 1/2 * 10px;
+em=1 * 10px;
+
+```
