@@ -73,3 +73,7 @@ PaulNewman (branch #) mogrifyy $ mogrify -path resize -adaptive-resize 50% -qual
 
 <h4> Best Jump start Front end dev for web devlopment (Bootstrap)</h4>
 <a href="https://classroom.udacity.com/courses/ud304/lessons/2794148535/concepts/27887686420923">Live web page codeing</a>
+
+<h4>Responsive unit for font, width,height (viewport width/height</h4>
+
+<a href="https://www.w3schools.com/cssref/tryit.asp?filename=trycss_unit_vmin">font size changes with respect to resize window</a>
