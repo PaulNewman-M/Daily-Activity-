@@ -106,3 +106,16 @@ Add .navbar-fixed-bottom and include a .container or .container-fluid to center 
 <h4> Postcss, linters, Future CSS , Better CSS, Images( checkout discription)</h4>
 
 <a href="https://github.com/postcss/postcss#readme">Postcss.org</a>
+
+# August 30
+
+<h4> Head of all Information to Optimize HTML,CSS,JS </h4>
+<a href="https://developers.google.com/speed/pagespeed/insights/?url=simpl.info%2Fcssfilters">https://developers.google.com/speed/pagespeed/insights/?url=simpl.info%2Fcssfilters</a>
+<h4> SimpleGrid Framework </h4>
+<a href="http://lostgrid.org/">http://lostgrid.org/</a>
+<h4> Effective way to optimise JS</h4>
+<a href="https://developers.google.com/closure/compiler/">https://developers.google.com/closure/compiler/</a>
+<h4> Anothe way to optimise css is csso </h4>
+<a href="https://developers.google.com/speed/docs/insights/MinifyResources</a>
+
+<h4> 
