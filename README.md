@@ -137,7 +137,7 @@ Yes load-grunt-tasks is a very neat plugin and we used it in the past! The reaso
 </ul>
 
 
-```
+```javascript
 module.exports = function(grunt) {
     require('time-grunt')(grunt, (stats, done) => {
         // do whatever you want with the stats
