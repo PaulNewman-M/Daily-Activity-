@@ -90,3 +90,16 @@ em=1 * 10px;
 <h4>Best Example of Container, Container-fluid, Without Container</h4>
 
 <a href="https://codepen.io/ncerminara/pen/omChv">Container Vs Container Fluid vs Without container </a>
+
+<h4> Proper way to add Fixed-top to navbar</h4>
+
+```javascript
+Add .navbar-fixed-bottom and include a .container or .container-fluid to center and pad navbar content.
+
+<nav class="navbar navbar-default navbar-fixed-bottom">
+  <div class="container">
+    ...
+  </div>
+</nav>
+
+```
