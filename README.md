@@ -178,3 +178,6 @@ module.exports = function(grunt) {
     grunt.registerTask('default', ['cssnano', 'cwebp']);
 };
 ```
+<h4> ImageMagic: Convert all format images to svg</h4>
+
+mogrify -path /Users/PaulNewman/version-control/portfolio-master/new-vector-images -format svg *.png
