@@ -42,8 +42,10 @@ I also read all the books except the last one in p1xt’s guide(https://github.c
 <h4> Install ImageMagick </h4>
 <a href="https://www.youtube.com/watch?v=rszmpxNG67M"> ImageMagick Installation Mac</a>
 <a href="https://www.youtube.com/watch?v=-hPleOyZJr4">Compressing jpg images using ImageMagic command</a>
-```terminal
+```javascript
+
 PaulNewman (branch #) mogrifyy $ mogrify -path resize -adaptive-resize 50% -quality 60%  *.jpg
+
 ```
 <h4> git </h4>
 <img src="https://i.stack.imgur.com/zUInQ.png"></img>
