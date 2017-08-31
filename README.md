@@ -187,6 +187,8 @@ module.exports = function(grunt) {
   
 ```javascript
 
-mogrify -path /Users/PaulNewman/version-control/portfolio-master/new-vector-images -format svg *.png
+mogrify -path /Users/PaulNewman/version-control/portfolio-master/new-vector-images -format svg *.*
+//any format to svg 
+//*.* -> anyName.anyFormat
 
 ```
