@@ -184,6 +184,9 @@ module.exports = function(grunt) {
   <li>goto image folder</li>
   <li>create new folder to save new converted files</li>
   </ul>
+  
 ```javascript
+
 mogrify -path /Users/PaulNewman/version-control/portfolio-master/new-vector-images -format svg *.png
-  ```
+
+```
