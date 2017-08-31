@@ -179,5 +179,11 @@ module.exports = function(grunt) {
 };
 ```
 <h4> ImageMagic: Convert all format images to svg</h4>
-
+<ul>
+  <li>open terminal</li>
+  <li>goto image folder</li>
+  <li>create new folder to save new converted files</li>
+  </ul>
+```javascript
 mogrify -path /Users/PaulNewman/version-control/portfolio-master/new-vector-images -format svg *.png
+  ```
