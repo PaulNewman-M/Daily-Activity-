@@ -23,6 +23,7 @@ CHROME DEVTOOLS CANARY
 <h4>7) How to Optimise code and reduce unwanted variables </h4>
 Use filter, reduce (functional programming) rather than <strong>for loops</strong>
 <h4>8) Encrypt Data using  Vim?</h4>
+
 ~~~
 open terminal
 vim password.txt
@@ -30,6 +31,7 @@ esc :X
 enter encrypt password 
 esc :wq
 ~~~
+
 <h4> Got Job ! year after FCC</h4>
 I also read all the books except the last one in p1xt’s guide(https://github.com/P1xt/p1xt-guides/blob/master/job-ready.md27) for getting job ready as soon as possible. The books I think everyone should read alongside FCC is YDKJS, since once you finish them you’ll have a very good understanding of JavaScript.
 <h4> Choosing Angular 2 over React in 2016 - BellevueJS - Matt Leonard</h4>
