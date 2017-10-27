@@ -162,7 +162,6 @@ module.exports = function(grunt) {
                 }]
             },
         },
-
         cwebp: {
             dynamic: {
                 options: {
@@ -177,7 +176,6 @@ module.exports = function(grunt) {
             },
         },
     });
-
     grunt.registerTask('default', ['cssnano', 'cwebp']);
 };
 ```
